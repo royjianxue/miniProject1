@@ -1,0 +1,16 @@
+/home/royxue/Desktop/csharp/miniProject1/bin/Debug/net5.0/miniProject1
+/home/royxue/Desktop/csharp/miniProject1/bin/Debug/net5.0/miniProject1.deps.json
+/home/royxue/Desktop/csharp/miniProject1/bin/Debug/net5.0/miniProject1.runtimeconfig.json
+/home/royxue/Desktop/csharp/miniProject1/bin/Debug/net5.0/miniProject1.runtimeconfig.dev.json
+/home/royxue/Desktop/csharp/miniProject1/bin/Debug/net5.0/miniProject1.dll
+/home/royxue/Desktop/csharp/miniProject1/bin/Debug/net5.0/miniProject1.pdb
+/home/royxue/Desktop/csharp/miniProject1/obj/Debug/net5.0/miniProject1.csproj.AssemblyReference.cache
+/home/royxue/Desktop/csharp/miniProject1/obj/Debug/net5.0/miniProject1.GeneratedMSBuildEditorConfig.editorconfig
+/home/royxue/Desktop/csharp/miniProject1/obj/Debug/net5.0/miniProject1.AssemblyInfoInputs.cache
+/home/royxue/Desktop/csharp/miniProject1/obj/Debug/net5.0/miniProject1.AssemblyInfo.cs
+/home/royxue/Desktop/csharp/miniProject1/obj/Debug/net5.0/miniProject1.csproj.CoreCompileInputs.cache
+/home/royxue/Desktop/csharp/miniProject1/obj/Debug/net5.0/miniProject1.dll
+/home/royxue/Desktop/csharp/miniProject1/obj/Debug/net5.0/refint/miniProject1.dll
+/home/royxue/Desktop/csharp/miniProject1/obj/Debug/net5.0/miniProject1.pdb
+/home/royxue/Desktop/csharp/miniProject1/obj/Debug/net5.0/miniProject1.genruntimeconfig.cache
+/home/royxue/Desktop/csharp/miniProject1/obj/Debug/net5.0/ref/miniProject1.dll

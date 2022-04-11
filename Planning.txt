@@ -1,0 +1,15 @@
+ask for name: {firstName}
+ask for age: {age}
+
+if {firstName} = Bob or Sue
+	{formattedName} = "Professor" {firstName}
+
+else
+	{formattedName} = {firstName}
+
+if age < 21
+
+	I recommend you wait {21 - age} years, {formattedName}
+
+else
+	welcome to class {formattedName}
