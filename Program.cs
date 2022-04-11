@@ -17,7 +17,7 @@ namespace miniProject1
             if(int.TryParse(ageText, out int age))
             {
 
-                if(firstName.ToUpper() == "BOB" && firstName.ToUpper() == "Sue")
+                if(firstName.ToUpper() == "BOB" || firstName.ToUpper() == "SUE")
                 {
                     formattedName = $"Professor {firstName}";
                 }
